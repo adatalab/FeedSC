@@ -1,0 +1,13 @@
+name: FeedSC
+title: FeedSC
+username:
+account: youngjunna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10393232
+bundleId: 7881216
+url: https://youngjunna.shinyapps.io/FeedSC/
+when: 1698914182.4658
+lastSyncTime: 1698914182.46581
+asMultiple: FALSE
+asStatic: FALSE
